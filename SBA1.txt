@@ -1,0 +1,13 @@
+Create a map reduce program to calculate the total sum of the salary :
+
+employees
+
+1,Anu,98000
+2,Neha,87000
+3,Kapoor,76000
+4,Krithika,18000
+5,Abhilash,8000 
+
+Expected output :
+
+Total salary : 287000
